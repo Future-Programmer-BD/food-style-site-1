@@ -104,7 +104,7 @@ cursor: pointer;
  /* page1 contant  */
 
 .paga1Con{
-    background:url(/Image/topHeader.png);
+    background-image:url(../Image/bg1.png);
     height: 100%;
     justify-items: center;
     background-repeat: no-repeat;
